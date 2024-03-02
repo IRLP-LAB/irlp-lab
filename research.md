@@ -12,4 +12,4 @@ key: page-research
 
 # Research
 
-The current research conducted at DM comprises three groups:
+<!-- The current research conducted at DM comprises three groups: -->
