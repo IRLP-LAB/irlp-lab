@@ -1,0 +1,1212 @@
+[
+
+		{
+		"id": "http://zotero.org/users/11271772/items/KBRFNZ6J",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation",
+		"DOI": "10.1145/3632754.3633480",
+		"event-place": "Panjim India",
+		"event-title": "FIRE 2023: Forum for Information Retrieval Evaluation",
+		"ISBN": "9798400716324",
+		"language": "en",
+		"page": "16-18",
+		"publisher": "ACM",
+		"publisher-place": "Panjim India",
+		"source": "DOI.org (Crossref)",
+		"title": "Efficiency of Large Language Models to scale up Ground Truth: Overview of the IRSE Track at Forum for Information Retrieval 2023",
+		"title-short": "Efficiency of Large Language Models to scale up Ground Truth",
+		"URL": "https://dl.acm.org/doi/10.1145/3632754.3633480",
+		"author": [
+			{
+				"family": "Paul",
+				"given": "Soumen"
+			},
+			{
+				"family": "Majumdar",
+				"given": "Srijoni"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Dave",
+				"given": "Bhargav"
+			},
+			{
+				"family": "Chattopadhyay",
+				"given": "Samiran"
+			},
+			{
+				"family": "Das",
+				"given": "Partha"
+			},
+			{
+				"family": "Clough",
+				"given": "Paul D"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/DKMPRYLA",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation",
+		"DOI": "10.1145/3632754.3633481",
+		"event-place": "Panjim India",
+		"event-title": "FIRE 2023: Forum for Information Retrieval Evaluation",
+		"ISBN": "9798400716324",
+		"language": "en",
+		"page": "19-21",
+		"publisher": "ACM",
+		"publisher-place": "Panjim India",
+		"source": "DOI.org (Crossref)",
+		"title": "Overview of MTIL Track at FIRE 2023: Machine Translation for Indian Languages",
+		"title-short": "Overview of MTIL Track at FIRE 2023",
+		"URL": "https://dl.acm.org/doi/10.1145/3632754.3633481",
+		"author": [
+			{
+				"family": "Gangopadhyay",
+				"given": "Surupendu"
+			},
+			{
+				"family": "Epili",
+				"given": "Ganesh"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Gain",
+				"given": "Baban"
+			},
+			{
+				"family": "Appicharla",
+				"given": "Ramakrishna"
+			},
+			{
+				"family": "Ekbal",
+				"given": "Asif"
+			},
+			{
+				"family": "Ahsan",
+				"given": "Arafat"
+			},
+			{
+				"family": "Sharma",
+				"given": "Dipti"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/K9SW9VSD",
+		"type": "article",
+		"abstract": "The Information Retrieval in Software Engineering (IRSE) track aims to develop solutions for automated evaluation of code comments in a machine learning framework based on human and large language model generated labels. In this track, there is a binary classification task to classify comments as useful and not useful. The dataset consists of 9048 code comments and surrounding code snippet pairs extracted from open source github C based projects and an additional dataset generated individually by teams using large language models. Overall 56 experiments have been submitted by 17 teams from various universities and software companies. The submissions have been evaluated quantitatively using the F1-Score and qualitatively based on the type of features developed, the supervised learning model used and their corresponding hyper-parameters. The labels generated from large language models increase the bias in the prediction model but lead to less over-fitted results.",
+		"note": "arXiv:2311.03374 [cs]",
+		"number": "arXiv:2311.03374",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Generative AI for Software Metadata: Overview of the Information Retrieval in Software Engineering Track at FIRE 2023",
+		"title-short": "Generative AI for Software Metadata",
+		"URL": "http://arxiv.org/abs/2311.03374",
+		"author": [
+			{
+				"family": "Majumdar",
+				"given": "Srijoni"
+			},
+			{
+				"family": "Paul",
+				"given": "Soumen"
+			},
+			{
+				"family": "Paul",
+				"given": "Debjyoti"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Chattopadhyay",
+				"given": "Samiran"
+			},
+			{
+				"family": "Das",
+				"given": "Partha Pratim"
+			},
+			{
+				"family": "Clough",
+				"given": "Paul D."
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/PVBX27VF",
+		"type": "article",
+		"abstract": "A scientific paper is traditionally prefaced by an abstract that summarizes the paper. Recently, research highlights that focus on the main findings of the paper have emerged as a complementary summary in addition to an abstract. However, highlights are not yet as common as abstracts, and are absent in many papers. In this paper, we aim to automatically generate research highlights using different sections of a research paper as input. We investigate whether the use of named entity recognition on the input improves the quality of the generated highlights. In particular, we have used two deep learning-based models: the first is a pointer-generator network, and the second augments the first model with coverage mechanism. We then augment each of the above models with named entity recognition features. The proposed method can be used to produce highlights for papers with missing highlights. Our experiments show that adding named entity information improves the performance of the deep learning-based summarizers in terms of ROUGE, METEOR and BERTScore measures.",
+		"note": "arXiv:2303.12795 [cs]",
+		"number": "arXiv:2303.12795",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Named Entity Recognition Based Automatic Generation of Research Highlights",
+		"URL": "http://arxiv.org/abs/2303.12795",
+		"author": [
+			{
+				"family": "Rehman",
+				"given": "Tohida"
+			},
+			{
+				"family": "Sanyal",
+				"given": "Debarshi Kumar"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Chattopadhyay",
+				"given": "Samiran"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/FJD88VF9",
+		"type": "article-journal",
+		"container-title": "Expert Systems with Applications",
+		"note": "publisher: Elsevier",
+		"page": "119342",
+		"source": "Google Scholar",
+		"title": "Detecting offensive speech in conversational code-mixed dialogue on social media: A contextual dataset and benchmark experiments",
+		"title-short": "Detecting offensive speech in conversational code-mixed dialogue on social media",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0957417422023600",
+		"volume": "215",
+		"author": [
+			{
+				"family": "Madhu",
+				"given": "Hiren"
+			},
+			{
+				"family": "Satapara",
+				"given": "Shrey"
+			},
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/GN3HKMVJ",
+		"type": "article-journal",
+		"abstract": "This report describes the 2\n              \n                nd\n              \n              edition of the Symposium on Artificial Intelligence and Law (SAIL) organized as a virtual event during June 6--9, 2022. The aim of SAIL is to bring together experts from the industry and the academia to discuss the scope and future of AI as applied to the legal domain. The symposium is also meant to foster collaborations between researchers of the following communities: Law, Artificial Intelligence, Data Mining, Information Retrieval, and Natural Language Processing. Eminent researchers working on AI and Law in both the academia and the industry were invited to deliver talks at this symposium.\n            \n            \n              Date:\n              6--9 June, 2022.\n            \n            \n              Website:\n              https://sites.google.com/view/sail-2022/.",
+		"container-title": "ACM SIGIR Forum",
+		"DOI": "10.1145/3582524.3582538",
+		"ISSN": "0163-5840",
+		"issue": "1",
+		"journalAbbreviation": "SIGIR Forum",
+		"language": "en",
+		"page": "1-7",
+		"source": "DOI.org (Crossref)",
+		"title": "Report on the 2nd Symposium on Artificial Intelligence and Law (SAIL) 2022",
+		"URL": "https://dl.acm.org/doi/10.1145/3582524.3582538",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Ghosh",
+				"given": "Saptarshi"
+			},
+			{
+				"family": "Ghosh",
+				"given": "Kripabandhu"
+			},
+			{
+				"family": "Ganguly",
+				"given": "Debasis"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Arnab"
+			},
+			{
+				"family": "Chakrabarti",
+				"given": "Partha Pratim"
+			},
+			{
+				"family": "Guha",
+				"given": "Shouvik"
+			},
+			{
+				"family": "Pal",
+				"given": "Arindam"
+			},
+			{
+				"family": "Rudra",
+				"given": "Koustav"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Roy",
+				"given": "Dwaipayan"
+			},
+			{
+				"family": "Bandopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Sen",
+				"given": "Procheta"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Paheli"
+			},
+			{
+				"family": "Deroy",
+				"given": "Aniket"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Upal"
+			},
+			{
+				"family": "Adhikary",
+				"given": "Subinay"
+			},
+			{
+				"family": "Nigam",
+				"given": "Subham Kumar"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/V5YCE9BJ",
+		"type": "chapter",
+		"container-title": "Advances in Information Retrieval",
+		"event-place": "Cham",
+		"ISBN": "978-3-031-28240-9",
+		"language": "en",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-031-28241-6_41",
+		"page": "384-387",
+		"publisher": "Springer Nature Switzerland",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "2nd Workshop on Augmented Intelligence in Technology-Assisted Review Systems (ALTARS)",
+		"URL": "https://link.springer.com/10.1007/978-3-031-28241-6_41",
+		"volume": "13982",
+		"editor": [
+			{
+				"family": "Kamps",
+				"given": "Jaap"
+			},
+			{
+				"family": "Goeuriot",
+				"given": "Lorraine"
+			},
+			{
+				"family": "Crestani",
+				"given": "Fabio"
+			},
+			{
+				"family": "Maistro",
+				"given": "Maria"
+			},
+			{
+				"family": "Joho",
+				"given": "Hideo"
+			},
+			{
+				"family": "Davis",
+				"given": "Brian"
+			},
+			{
+				"family": "Gurrin",
+				"given": "Cathal"
+			},
+			{
+				"family": "Kruschwitz",
+				"given": "Udo"
+			},
+			{
+				"family": "Caputo",
+				"given": "Annalina"
+			}
+		],
+		"author": [
+			{
+				"family": "Di Nunzio",
+				"given": "Giorgio Maria"
+			},
+			{
+				"family": "Kanoulas",
+				"given": "Evangelos"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/6VTIKL98",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 14th Annual Meeting of the Forum for Information Retrieval Evaluation",
+		"DOI": "10.1145/3574318.3574329",
+		"event-place": "Kolkata India",
+		"event-title": "FIRE '22: Forum for Information Retrieval Evaluation",
+		"ISBN": "9798400700231",
+		"language": "en",
+		"page": "15-17",
+		"publisher": "ACM",
+		"publisher-place": "Kolkata India",
+		"source": "DOI.org (Crossref)",
+		"title": "Can we predict useful comments in source codes? - Analysis of findings from Information Retrieval in Software Engineering Track @ FIRE 2022",
+		"title-short": "Can we predict useful comments in source codes?",
+		"URL": "https://dl.acm.org/doi/10.1145/3574318.3574329",
+		"author": [
+			{
+				"family": "Majumdar",
+				"given": "Srijoni"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Das",
+				"given": "Partha Pratim"
+			},
+			{
+				"family": "Clough",
+				"given": "Paul"
+			},
+			{
+				"family": "Chattopadhyay",
+				"given": "Samiran"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/2MPKVEZK",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 14th Annual Meeting of the Forum for Information Retrieval Evaluation",
+		"DOI": "10.1145/3574318.3574326",
+		"event-place": "Kolkata India",
+		"event-title": "FIRE '22: Forum for Information Retrieval Evaluation",
+		"ISBN": "9798400700231",
+		"language": "en",
+		"page": "4-7",
+		"publisher": "ACM",
+		"publisher-place": "Kolkata India",
+		"source": "DOI.org (Crossref)",
+		"title": "Overview of the HASOC Subtrack at FIRE 2022: Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages",
+		"title-short": "Overview of the HASOC Subtrack at FIRE 2022",
+		"URL": "https://dl.acm.org/doi/10.1145/3574318.3574326",
+		"author": [
+			{
+				"family": "Satapara",
+				"given": "Shrey"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Madhu",
+				"given": "Hiren"
+			},
+			{
+				"family": "Ranasinghe",
+				"given": "Tharindu"
+			},
+			{
+				"family": "Zampieri",
+				"given": "Marcos"
+			},
+			{
+				"family": "North",
+				"given": "Kai"
+			},
+			{
+				"family": "Premasiri",
+				"given": "Damith"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/DC54TIXY",
+		"type": "article-journal",
+		"container-title": "Expert Systems with Applications",
+		"note": "publisher: Elsevier",
+		"page": "118472",
+		"source": "Google Scholar",
+		"title": "Text representation for direction prediction of share market",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0957417422015561",
+		"volume": "211",
+		"author": [
+			{
+				"family": "Gangopadhyay",
+				"given": "Surupendu"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/D6Y6R9KS",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2nd Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022), Samatan, Gers, France, July",
+		"source": "Google Scholar",
+		"title": "Relevance model augmented with inter-collection co-occurrence statistics for ad-hoc retrieval in precision medicine",
+		"URL": "http://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_30.pdf",
+		"author": [
+			{
+				"family": "Mishra",
+				"given": "Sonal"
+			},
+			{
+				"family": "Sen",
+				"given": "Procheta"
+			},
+			{
+				"family": "Ganguly",
+				"given": "Debasis"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/WLNFISKL",
+		"type": "article-journal",
+		"source": "Google Scholar",
+		"title": "A Combination of'Intra and Inter Collection'Relevance Models for Ad-hoc Retrieval in Precision Medicine",
+		"URL": "https://eprints.gla.ac.uk/270787/",
+		"author": [
+			{
+				"family": "Sen",
+				"given": "Procheta"
+			},
+			{
+				"family": "Mishra",
+				"given": "Sonal"
+			},
+			{
+				"family": "Ganguly",
+				"given": "Debasis"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/X7XAIQFY",
+		"type": "article-journal",
+		"container-title": "Journal of Experimental & Theoretical Artificial Intelligence",
+		"DOI": "10.1080/0952813X.2021.1907792",
+		"ISSN": "0952-813X, 1362-3079",
+		"issue": "3",
+		"journalAbbreviation": "Journal of Experimental & Theoretical Artificial Intelligence",
+		"language": "en",
+		"page": "499-525",
+		"source": "DOI.org (Crossref)",
+		"title": "An empirical evaluation of text representation schemes to filter the social media stream",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/0952813X.2021.1907792",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/ZF6QGT5A",
+		"type": "article-journal",
+		"container-title": "Working Notes of FIRE",
+		"source": "Google Scholar",
+		"title": "Overview of the HASOC Subtrack at FIRE 2022: Identification of Conversational Hate-Speech in Hindi-English Code-Mixed and German Language",
+		"title-short": "Overview of the HASOC Subtrack at FIRE 2022",
+		"URL": "https://www.researchgate.net/profile/Thomas-Mandl/publication/371011947_Overview_of_the_HASOC_Subtrack_at_FIRE_2022_Identification_of_Conversational_Hate-Speech_in_Hindi-English_Code-Mixed_and_German_Language/links/646f038b37d6625c0032c7b6/Overview-of-the-HASOC-Subtrack-at-FIRE-2022-Identification-of-Conversational-Hate-Speech-in-Hindi-English-Code-Mixed-and-German-Language.pdf",
+		"author": [
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Satapara",
+				"given": "Shrey"
+			},
+			{
+				"family": "Patel",
+				"given": "Tithi"
+			},
+			{
+				"family": "Madhu",
+				"given": "Hiren"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/2MCM3LG5",
+		"type": "chapter",
+		"container-title": "Advances in Information Retrieval",
+		"event-place": "Cham",
+		"ISBN": "978-3-030-99738-0",
+		"language": "en",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-030-99739-7_69",
+		"page": "557-560",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Augmented Intelligence in Technology-Assisted Review Systems (ALTARS 2022): Evaluation Metrics and Protocols for eDiscovery and Systematic Review Systems",
+		"title-short": "Augmented Intelligence in Technology-Assisted Review Systems (ALTARS 2022)",
+		"URL": "https://link.springer.com/10.1007/978-3-030-99739-7_69",
+		"volume": "13186",
+		"editor": [
+			{
+				"family": "Hagen",
+				"given": "Matthias"
+			},
+			{
+				"family": "Verberne",
+				"given": "Suzan"
+			},
+			{
+				"family": "Macdonald",
+				"given": "Craig"
+			},
+			{
+				"family": "Seifert",
+				"given": "Christin"
+			},
+			{
+				"family": "Balog",
+				"given": "Krisztian"
+			},
+			{
+				"family": "Nørvåg",
+				"given": "Kjetil"
+			},
+			{
+				"family": "Setty",
+				"given": "Vinay"
+			}
+		],
+		"author": [
+			{
+				"family": "Di Nunzio",
+				"given": "Giorgio Maria"
+			},
+			{
+				"family": "Kanoulas",
+				"given": "Evangelos"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/DTLKL7MQ",
+		"type": "paper-conference",
+		"container-title": "Forum for Information Retrieval Evaluation, ACM",
+		"source": "Google Scholar",
+		"title": "Overview of the IRSE track at FIRE 2022: Information Retrieval in Software Engineering",
+		"title-short": "Overview of the IRSE track at FIRE 2022",
+		"URL": "https://ceur-ws.org/Vol-3395/T1-1.pdf",
+		"author": [
+			{
+				"family": "Majumdar",
+				"given": "Srijoni"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Chattopadhyay",
+				"given": "Samiran"
+			},
+			{
+				"family": "Das",
+				"given": "Partha Pratim"
+			},
+			{
+				"family": "Clough",
+				"given": "Paul D."
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/E3HAHMKV",
+		"type": "article",
+		"abstract": "The widespread of offensive content online such as hate speech poses a growing societal problem. AI tools are necessary for supporting the moderation process at online platforms. For the evaluation of these identification tools, continuous experimentation with data sets in different languages are necessary. The HASOC track (Hate Speech and Offensive Content Identification) is dedicated to develop benchmark data for this purpose. This paper presents the HASOC subtrack for English, Hindi, and Marathi. The data set was assembled from Twitter. This subtrack has two sub-tasks. Task A is a binary classification problem (Hate and Not Offensive) offered for all three languages. Task B is a fine-grained classification problem for three classes (HATE) Hate speech, OFFENSIVE and PROFANITY offered for English and Hindi. Overall, 652 runs were submitted by 65 teams. The performance of the best classification algorithms for task A are F1 measures 0.91, 0.78 and 0.83 for Marathi, Hindi and English, respectively. This overview presents the tasks and the data development as well as the detailed results. The systems submitted to the competition applied a variety of technologies. The best performing algorithms were mainly variants of transformer architectures.",
+		"note": "arXiv:2112.09301 [cs]",
+		"number": "arXiv:2112.09301",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Overview of the HASOC Subtrack at FIRE 2021: Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages",
+		"title-short": "Overview of the HASOC Subtrack at FIRE 2021",
+		"URL": "http://arxiv.org/abs/2112.09301",
+		"author": [
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Shahi",
+				"given": "Gautam Kishore"
+			},
+			{
+				"family": "Madhu",
+				"given": "Hiren"
+			},
+			{
+				"family": "Satapara",
+				"given": "Shrey"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Schaefer",
+				"given": "Johannes"
+			},
+			{
+				"family": "Ranasinghe",
+				"given": "Tharindu"
+			},
+			{
+				"family": "Zampieri",
+				"given": "Marcos"
+			},
+			{
+				"family": "Nandini",
+				"given": "Durgesh"
+			},
+			{
+				"family": "Jaiswal",
+				"given": "Amit Kumar"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/XZU6UAS9",
+		"type": "paper-conference",
+		"container-title": "Forum for Information Retrieval Evaluation",
+		"DOI": "10.1145/3503162.3506571",
+		"event-place": "Virtual Event India",
+		"event-title": "FIRE 2021: Forum for Information Retrieval Evaluation",
+		"ISBN": "978-1-4503-9596-0",
+		"language": "en",
+		"page": "12-15",
+		"publisher": "ACM",
+		"publisher-place": "Virtual Event India",
+		"source": "DOI.org (Crossref)",
+		"title": "AILA 2021: Shared task on Artificial Intelligence for Legal Assistance",
+		"title-short": "AILA 2021",
+		"URL": "https://dl.acm.org/doi/10.1145/3503162.3506571",
+		"author": [
+			{
+				"family": "Parikh",
+				"given": "Vedant"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Upal"
+			},
+			{
+				"family": "Mehta",
+				"given": "Parth"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Ayan"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Paheli"
+			},
+			{
+				"family": "Ghosh",
+				"given": "Kripa"
+			},
+			{
+				"family": "Ghosh",
+				"given": "Saptarshi"
+			},
+			{
+				"family": "Pal",
+				"given": "Arindam"
+			},
+			{
+				"family": "Bhattacharya",
+				"given": "Arnab"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/4IQ5FX47",
+		"type": "paper-conference",
+		"container-title": "Forum for Information Retrieval Evaluation",
+		"event-place": "Virtual Event India",
+		"event-title": "FIRE 2021: Forum for Information Retrieval Evaluation",
+		"ISBN": "978-1-4503-9596-0",
+		"language": "en",
+		"publisher": "ACM",
+		"publisher-place": "Virtual Event India",
+		"source": "DOI.org (Crossref)",
+		"title": "Proceedings of the 13th Annual Meeting of the Forum for Information Retrieval Evaluation",
+		"author": [
+			{
+				"family": "Ganguly",
+				"given": "Debasis"
+			},
+			{
+				"family": "Gangopadhyay",
+				"given": "Surupendu"
+			},
+			{
+				"family": "Mitra",
+				"given": "Mandar"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11271772/items/J4PBZNDA",
+		"type": "article-journal",
+		"container-title": "Social Network Analysis and Mining",
+		"DOI": "10.1007/s13278-021-00830-3",
+		"ISSN": "1869-5450, 1869-5469",
+		"issue": "1",
+		"journalAbbreviation": "Soc. Netw. Anal. Min.",
+		"language": "en",
+		"page": "114",
+		"source": "DOI.org (Crossref)",
+		"title": "Design and analysis of microblog-based summarization system",
+		"URL": "https://link.springer.com/10.1007/s13278-021-00830-3",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Modha",
+				"given": "Sandip"
+			},
+			{
+				"family": "Majumder",
+				"given": "Prasenjit"
+			},
+			{
+				"family": "Mandl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Singla",
+				"given": "Rishab"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12
+				]
+			]
+		}
+	}
+]
