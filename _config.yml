@@ -35,8 +35,6 @@ collections:
       output: true
     postdoc:
       output: true
-    teaching:
-      output: false
     research:
       output: true
     events:
@@ -59,7 +57,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Davide Carlomagno
+  name      : Bhargav Dave
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : # short bio or description

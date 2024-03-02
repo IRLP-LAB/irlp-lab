@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: projects
 titles:
   # @start locale config
@@ -8,4 +8,4 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-events
----
+--- -->
