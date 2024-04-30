@@ -1,20 +1,42 @@
 ---
 layout: page
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+      .social-icons {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Style for each social media icon link */
+        .social-icons a {
+            margin-right: 10px; /* Adjust spacing between icons */
+            display: inline-block;
+        }
+
+        /* Style for each social media icon image */
+        .social-icons img {
+            width: 30px; /* Adjust width of the icons */
+            height: 30px; /* Adjust height of the icons */
+        }
+</style>
 
 <h2>Faculty</h2>
-<div class="cards_people_wrapper">
+<div >
   {% for member in site.faculty %}
-  <div class="card_person">
-    <a href="{{ member.url }}">
-      <img
-        class="profile_photo"
-        src="{{ member.photo }}"
-        width="100"
-        height="100"
+  <div  class="card" style="justify-content: center; align-items: center; padding: 8px;">
+      <img src="{{ member.photo }}"
+        width="200"
+        height="200"     style="border-radius: 50%"
       />
       <p>{{ member.name }}</p>
-    </a>
+      <div class="social-icons" style="justify-content: center; align-items: center;">
+        <a href="#"><img src="assets/icons8-google-scholar-48.png" alt="Google Scholar"></a>
+        <a href="#"><img src="assets/icons8-linkedin-48.png" alt="Google Scholar"></a>  
+        <a href="#"><img src="assets/icons8-facebook-48.png" alt="Google Scholar"></a>  
+      </div>
+    
   </div>
   {% endfor %}
 </div>
@@ -46,10 +68,13 @@ layout: page
 </div> -->
 
 <h2>PhD Students</h2>
+
+
+
+
 <div class="cards_people_wrapper">
   {% for member in site.phd %}
-  <div class="card_person">
-    <a href="{{ member.url }}">
+  <div  class="card" style="justify-content: center; align-items: center; padding: 8px;">
       {% if member.photo == blank %}
       <img
         class="event_photo"
@@ -58,15 +83,17 @@ layout: page
         height="100"
       />
       {% else %}
-      <img
-        class="profile_photo"
-        src="{{ member.photo }}"
-        width="100"
-        height="100"
-      />
-      {% endif %}
-      <p>{{ member.name }}</p>
-    </a>
+      <img src="{{ member.photo }}"
+      width="200"
+      height="200"     style="border-radius: 50%"
+    />
+        {% endif %}
+        <p>{{ member.name }}</p>
+        <div class="social-icons" style="justify-content: center; align-items: center;">
+          <a href="#"><img src="assets/icons8-google-scholar-48.png" alt="Google Scholar"></a>
+          <a href="#"><img src="assets/icons8-linkedin-48.png" alt="Google Scholar"></a>  
+          <a href="#"><img src="assets/icons8-facebook-48.png" alt="Google Scholar"></a>  
+        </div>
   </div>
   {% endfor %}
 </div>
