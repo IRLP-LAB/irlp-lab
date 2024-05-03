@@ -19,15 +19,13 @@ layout: page
           <!-- authors -->
           {% assign authors = "" | split:"/" %}
           {% for author in publi.author %}
-              {% assign authors = authors | push: author.family %}
+          {{author.given %}} {{author.family}},               
           {% endfor %}
-          {{ authors | array_to_sentence_string }},
-
           <!-- title with link -->
-          "{{ publi.title }}",
+          <span style="color: blue; font-weight: bold;">"{{ publi.title }}"</span>,
 
           <!-- container -->
-          <b>{{ publi.container-title }}</b>
+          {{ publi.container-title }}
 
           <!-- issued date -->
           ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
@@ -40,14 +38,6 @@ layout: page
           </a>
       </div>
 
-      <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
-          <div class="panel-body">
-              <p>{{ publi.abstract }}</p>
-
-              <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                 role="button" target="blank">Link</a>
-          </div>
-      </div>
   {% endfor %}
   </div>
 </div>
