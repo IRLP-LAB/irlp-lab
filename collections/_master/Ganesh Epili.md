@@ -1,6 +1,7 @@
 ---
 layout:
 name: Ganesh Epili
+program : M.tech ICT
 thesis_title: 
 supervisors: 
 external_institution: 
